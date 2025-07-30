@@ -42,7 +42,6 @@ Enumerate the main results of this project in a list and describe them.
 (UPDATE IN README.md)
 Include any relevant data sources that were used in your project.
 
-*EXAMPLE:*
 Kaggle Dataset: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 ## Technologies Used <!--- do not change this line -->
