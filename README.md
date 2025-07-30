@@ -44,5 +44,5 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 *This project was completed in collaboration with:*
 - *Harishitha Mummidivarapu ([harishitha2005@gmail.com](harishitha2005@gmail.com))*
 - *Macy Li ([](mailto:))*
-- *Annalisa Abbate ([](mailto:))*
+- *Annalisa Abbate ([aa2723@cornell.edu](mailto:))*
 - *Hoang ([](mailto:))*
