@@ -20,7 +20,7 @@ Describe the motivation for this project, why it is relevant, and what its impac
 
 ## Data Sources <!--- do not change this line -->
 
-*Kaggle Datasets: ([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/grassknoted/asl-alphabet))*
+*Kaggle Datasets: ([https://www.kaggle.com/datasets/grassknoted/asl-alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet))*
 
 ## Technologies Used <!--- do not change this line -->
 - *Python*
