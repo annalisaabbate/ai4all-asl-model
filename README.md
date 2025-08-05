@@ -12,7 +12,7 @@ Describe the motivation for this project, why it is relevant, and what its impac
 
 ## Key Results <!--- do not change this line -->
 
-1. *Achieved an accuracy of 52% on the test dataset, successfully classifying hand signs across multiple ASL letters.*
+1. *Achieved an accuracy of 60% on the test dataset, successfully classifying hand signs across multiple ASL letters.*
 
 ## Methodologies <!--- do not change this line -->
 
@@ -32,6 +32,5 @@ Describe the motivation for this project, why it is relevant, and what its impac
 
 *This project was completed in collaboration with:*
 - *Harishitha Mummidivarapu ([harishitha2005@gmail.com](harishitha2005@gmail.com))*
-- *Macy Li ([](mailto:))*
-- *Annalisa Abbate ([aa2723@cornell.edu](mailto:))*
-- *Hoang ([](mailto:))*
+- *Macy Li ([ml231@rice.edu](ml231@rice.edu))*
+- *Annalisa Abbate ([aa2723@cornell.edu](aa2723@cornell.edu))*
