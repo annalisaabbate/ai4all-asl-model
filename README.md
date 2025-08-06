@@ -2,7 +2,7 @@
 
 ## Purpose
 
-*Trained CNN model to classify the ASL alphabet, employing Python, pandas, and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+*Trained Logistic Regression and CNN model to classify the ASL alphabet, employing Python, pandas, and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
 
 
 ## Problem Statement
