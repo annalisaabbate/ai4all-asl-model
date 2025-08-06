@@ -1,4 +1,4 @@
-# Using Logistic Regression to create model for predicting asl hand signs.
+# Using Logistic Regression and Convolutional Neural Networks to create model for predicting asl hand signs.
 
 ## Purpose
 
