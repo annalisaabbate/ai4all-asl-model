@@ -21,12 +21,13 @@
 
 *Kaggle Datasets: ([https://www.kaggle.com/datasets/grassknoted/asl-alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet))*
 
-## Technologies Used
-
+## Technologies Used <!--- do not change this line -->
 - *Python*
-- *pandas*
+
+Libraries: 
 - *Sklearn*
 - *Tensorflow*
+- *Numpy*
 
 ## Authors
 
